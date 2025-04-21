@@ -133,7 +133,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CirclePhysics.cpp" />
+    <ClCompile Include="CreateCircle.cpp" />
     <ClCompile Include="InitializeScene.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CirclePhysics.h" />
+    <ClInclude Include="CreateCircle.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
