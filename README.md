@@ -47,3 +47,4 @@ Then run with:
 ```
 ./sim
 ```
+![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ce006b26-90b1-430d-991c-ea1b03ab97e4)
